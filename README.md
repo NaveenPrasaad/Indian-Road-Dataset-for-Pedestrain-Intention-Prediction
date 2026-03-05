@@ -1,7 +1,7 @@
-# Indian Road Pedestrian Intention Dataset (Lite Version)
+# Indian Road Dataset for Pedestrian Intention Prediction (Lite Version)
 
 # 1.Overview
-The Indian Road Pedestrian Intention Dataset (Lite Version) is a curated subset designed to support research on pedestrian intention prediction in real-world Indian traffic environments.
+The Indian Road Dataset for Pedestrian Intention Prediction (Lite Version) is a curated subset designed to support research on pedestrian intention prediction in real-world Indian traffic environments.
 The dataset contains image frames extracted from traffic videos along with pedestrian bounding box annotations and behavioral attributes related to crossing intention.<br>
 
 This dataset enables research in:
